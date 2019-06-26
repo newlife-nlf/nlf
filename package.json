@@ -1,0 +1,23 @@
+{
+  "name": "nlf",
+  "version": "1.0.0",
+  "description": "new life",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nlf",
+    "token",
+    "erc20"
+  ],
+  "license": "ISC"
+}
